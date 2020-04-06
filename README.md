@@ -10,9 +10,7 @@
 # ruby on rails config
 eval "$(rbenv init -)"
 export WEB_DATABASE_PASSWORD=1234
-export DATABASE_URL="postgres://admin:1234@localhost/web_default"
-export DATABASE_URL_DEV="postgres://admin:1234@localhost/web_development"
-export DATABASE_URL_TEST="postgres://admin:1234@localhost/web_test"
+export DATABASE_URL="postgres://admin:1234@localhost"
 ```
 
 # REF
