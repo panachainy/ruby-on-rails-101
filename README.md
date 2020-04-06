@@ -1,3 +1,5 @@
+[![CircleCI](https://circleci.com/gh/panachainy/ruby-on-rails-101.svg?style=svg)](https://circleci.com/gh/panachainy/ruby-on-rails-101)
+
 # Ruby on rails 101
 
 ## Arrange
