@@ -4,6 +4,10 @@
 
 ## Arrange
 
+## Setup machine
+
+[Windows](_note/setup-windows.md)
+
 ### Config
 
 ```shell
