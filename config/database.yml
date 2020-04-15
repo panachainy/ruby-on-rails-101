@@ -81,6 +81,6 @@ test:
 #
 production:
   <<: *default
-  database: ruby_on_rails_101_production
+# database: ruby_on_rails_101_production
 # username: ruby_on_rails_101
 # password: <%= ENV['RUBY_ON_RAILS_101_DATABASE_PASSWORD'] %>
