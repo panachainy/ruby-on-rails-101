@@ -13,7 +13,6 @@
     "webpack-dev-server": "^3.10.3"
   },
   "scripts": {
-    "install": "bundle install ; rails db:create",
     "start": "rails s",
     "rails-version": "gem list | grep rails"
   }

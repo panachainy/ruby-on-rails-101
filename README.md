@@ -20,6 +20,12 @@ export DATABASE_URL="postgres://admin:1234@localhost"
 
 ## Command
 
+Install package
+`bundle install`
+
+Run create db
+`rails db:create`
+
 Create controller
 `rails generate controller Welcome index`
 
