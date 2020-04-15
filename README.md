@@ -15,7 +15,6 @@
 
 # ruby on rails config
 eval "$(rbenv init -)"
-export WEB_DATABASE_PASSWORD=1234
 export DATABASE_URL="postgres://admin:1234@localhost"
 ```
 
