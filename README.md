@@ -2,6 +2,8 @@
 
 # Ruby on rails 101
 
++ https://dry-crag-77256.herokuapp.com
+
 ## Arrange
 
 ## Setup machine
@@ -26,8 +28,15 @@ Install package
 Run create db
 `rails db:create`
 
+Run migrate
+`rails db:migrate`
+
 Create controller
 `rails generate controller Welcome index`
+
+## Command initial project
+
+TODO:
 
 # REF
 
