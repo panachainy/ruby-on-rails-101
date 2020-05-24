@@ -2,6 +2,10 @@
 
 # Ruby on rails 101
 
+https://dry-crag-77256.herokuapp.com/
+
+https://dashboard.heroku.com/apps/dry-crag-77256/deploy/github
+
 ## Arrange
 
 ## Setup machine
